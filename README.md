@@ -22,9 +22,11 @@
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/Sorting.java">Sorting</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/SmallestPair.java">Smallest Pair</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/LuckyArray.java">Lucky Array</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/MaxSubArray.java">Max Subarray</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/SumDigit.java">Sum Digits</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/Fibonaci.java">Fibonacci</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/MinimizeNumber.java">Minimize Number</a></li>
+
   </ul>
 
 </details>
