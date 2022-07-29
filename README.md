@@ -8,19 +8,9 @@
 
 #### Check Out CodeForce By Category
 
-<div>
-
-<a href="#array-problem">Array</a>
-
-</div>
-
-<hr>
-
-<div id="array-problem">
-
 <details>
 
-  <summary>click Here</summary>
+  <summary>Array</summary>
   <ul>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/Summation.java">Summation</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/Searching.java">Searching</a></li>
