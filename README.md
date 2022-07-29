@@ -6,7 +6,9 @@
 
 <hr>
 
-#### Check Out CodeForce By Category
+```sh
+Check Out CodeForce By Category
+```
 
 <details>
 
@@ -29,4 +31,25 @@
 
   </ul>
 
+</details>
+
+```sh
+Check Out my Beecrowd or URI Solution
+```
+
+<details>
+
+  <summary>Problems</summary>
+  <ul>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1001.c">	1001</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1002.c">	1002</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1003.c">	1003</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1004.c">	1004</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1005.c"> 1005</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1006.c">	1006</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1007.c">	1007</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1008.c">	1008</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1009.c">	1009</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1010.c">	1010</a></li>
+  </ul>
 </details>
