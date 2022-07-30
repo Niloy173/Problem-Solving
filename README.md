@@ -59,6 +59,18 @@ Check Out HackerRank Solution By Category
   </ul>
 </details>
 
+<details>
+
+  <summary>String</summary>
+  <ul>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/HackerRank/String/FunnyString.java">Funny String</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/HackerRank/String/AlternatingCharacter.py">Alternating Character</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/HackerRank/String/StringConstructor.py">String Constructor</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/HackerRank/String/SherlockValidString.py">Sherlock & Valid String</a></li>
+
+</ul>
+</details>
+
 ```sh
 Check Out my Beecrowd or URI Solution
 ```
