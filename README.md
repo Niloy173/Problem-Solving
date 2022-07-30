@@ -11,7 +11,7 @@ This repositry is basically for all the problems I have solved not long ago in v
 <hr>
 
 ```sh
-Check Out CodeForce By Category
+Check Out CodeForce Solution By Category
 ```
 
 <details>
