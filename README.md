@@ -33,6 +33,7 @@ Check Out CodeForce Solution By Category
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/Fibonaci.java">Fibonacci</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/MinimizeNumber.java">Minimize Number</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/Subsequence.java">Is B a subsequence of A ?</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Array/BinarySearch.java">Binary Search</a></li>
 
   </ul>
 
