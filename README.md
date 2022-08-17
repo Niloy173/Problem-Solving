@@ -45,8 +45,7 @@ Check Out CodeForce Solution By Category
 
   <summary>String</summary>
   <ul>
-
-    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Create_A_New_String.java">Create A New String</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Create_A_New_String.java">Create A New String</a></li>
 
   </ul>
 
