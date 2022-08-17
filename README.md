@@ -41,6 +41,17 @@ Check Out CodeForce Solution By Category
 
 </details>
 
+<details>
+
+  <summary>String</summary>
+  <ul>
+
+    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Create_A_New_String.java">Create A New String</a></li>
+
+  </ul>
+
+</details>
+
 ```sh
 Check Out HackerRank Solution By Category
 ```
