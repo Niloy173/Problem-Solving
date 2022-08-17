@@ -46,9 +46,12 @@ Check Out CodeForce Solution By Category
   <summary>String</summary>
   <ul>
    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Create_A_New_String.java">Create A New String</a></li>
-
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Lets_use_Getline.java">Let's use GetLine</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Compare.java">Compare</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Strings.java">Strings</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Count.java">Count</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Way_to_long_Words.java">Way Too Long Words</a></li>
   </ul>
-
 </details>
 
 ```sh
