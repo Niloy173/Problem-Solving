@@ -51,6 +51,17 @@ Check Out CodeForce Solution By Category
    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Strings.java">Strings</a></li>
    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Count.java">Count</a></li>
    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Way_to_long_Words.java">Way Too Long Words</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Conversion.java">Conversion</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Palindrome.java">Palindrome</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Count_Letters.java">Count Letters</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/LoveString.java">I Love Strings</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Subsequence.java">Subsequence String</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/MaxSubsequence.java">Max Subsequence</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/CountWords.java">Count Words</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/Reverseword.java">Reverse Words</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/URL.java">URL</a></li>
+   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/CodeForce/String/NewWord.java">New Words</a></li>
+
   </ul>
 </details>
 
