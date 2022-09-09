@@ -98,6 +98,18 @@ Check Out HackerRank Solution By Category
 </ul>
 </details>
 
+<details>
+
+  <summary>Sorting</summary>
+  <ul>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/HackerRank/Sorting/RuningTime.java">Runing Time of Algotithm</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/HackerRank/Sorting/CountingPart.java">Counting Part 1</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/HackerRank/Sorting/Closest.java">Closest Numbers</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/HackerRank/Sorting/Main.java">Find the Median</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/HackerRank/Sorting/Lilly.java">Lilly's Homework</a></li>
+</ul>
+</details>
+
 ```sh
 Check Out my LeetCode Solution
 ```
