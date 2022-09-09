@@ -110,11 +110,21 @@ Check Out my Beecrowd or URI Solution
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1002.c">	1002</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1003.c">	1003</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1004.c">	1004</a></li>
-  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1005.c"> 1005</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1005.c">  1005</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1006.c">	1006</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1007.c">	1007</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1008.c">	1008</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1009.c">	1009</a></li>
   <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1010.c">	1010</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1011.c">  1011</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1012.c">  1012</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1013.c">  1013</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1014.c">  1014</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1015.c">  1015</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1016.c">  1016</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1017.c">  1017</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1018.c">  1018</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1019.c">  1019</a></li>
+  <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/Beecrowd/1020.c">  1020</a></li>
   </ul>
 </details>
