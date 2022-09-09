@@ -99,6 +99,21 @@ Check Out HackerRank Solution By Category
 </details>
 
 ```sh
+Check Out my LeetCode Solution
+```
+
+<details>
+
+  <summary>Array</summary>
+  <ul>
+    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/LeetCode/Array/Max_subarray.java">Max SubArray</a></li>
+    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/LeetCode/Array/Remove_element.java">Remove Element</a></li>
+    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/LeetCode/Array/Search_insert_position.java">Search Insert Position</a></li>
+    <li><a href="https://github.com/Niloy173/Problem-Solving/blob/master/LeetCode/Array/Two_sum.java">Two Sum</a></li>
+  </ul>
+</details>
+
+```sh
 Check Out my Beecrowd or URI Solution
 ```
 
